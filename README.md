@@ -1,2 +1,3 @@
-# 22-2-sishard-template
-22-2 sishard template
+# SisHard 2022/1
+
+Repositório template para as entregas de SisHard!
