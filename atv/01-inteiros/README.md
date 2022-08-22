@@ -10,6 +10,7 @@ bases_e_sinais < solucao.txt
 
 
 `git tag -a atv1.x.y -m "atv1.x.y"`
+
 `git push origin atv1.x.y`
 
 Trocando `x` e `y`por qualquer número de seu interesse!
